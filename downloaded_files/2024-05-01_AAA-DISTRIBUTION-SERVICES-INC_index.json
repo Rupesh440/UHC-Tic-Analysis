@@ -1,0 +1,50 @@
+{
+  "reporting_entity_name": "Oxford-Health-Plans-LLC",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "United-Healthcare-EPO",
+          "plan_id": "845080562",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath_31_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Cancer shared files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_CMC_CRS_MRRF_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_OHPH-Chiro_28_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_PPO---NDC_PPO-NDC_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_Liberty-Network_25_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_OBH---Optum-Behavior-Health_P3_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_Core-POS_579_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Oxford-Health-Plans-LLC_Third-Party-Administrator_OHPH-ST_30_in-network-rates.json.gz"
+        }
+      ]
+    }
+  ]
+}

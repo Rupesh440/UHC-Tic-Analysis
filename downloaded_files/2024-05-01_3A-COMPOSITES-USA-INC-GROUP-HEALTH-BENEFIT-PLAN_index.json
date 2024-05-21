@@ -1,0 +1,41 @@
+{
+  "reporting_entity_name": "UMR-Inc",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "3A-COMPOSITES-USA--INC--GROUP-HEALTH-BENEFIT-PLAN",
+          "plan_id": "311187717",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_UMR--Inc-_Third-Party-Administrator_UNITEDHEALTHCARE-CHOICE-PLUS_0L_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_UMR--Inc-_Third-Party-Administrator_CMC_Transplant_MRRF_in-network-rates.json.gz"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "3A-COMPOSITES-USA-INC-GROUP-HEALTH-BENEFIT-PLAN",
+          "plan_id": "311187717",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_3A-COMPOSITES-USA-INC-GROUP-HEALTH-BENEFIT-PLAN_3A-COMPOSITES-USA-INC-GROUP-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+}

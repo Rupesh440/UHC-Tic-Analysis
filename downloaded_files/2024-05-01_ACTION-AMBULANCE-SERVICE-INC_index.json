@@ -1,0 +1,21 @@
+{
+  "reporting_entity_name": "HEALTHSCOPE-BENEFITS",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "ACTION-AMBULANCE-SERVICE-INC",
+          "plan_id": "042614116",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_ACTION-AMBULANCE-SERVICE-INC_ACTION-AMBULANCE-SERVICE-INC_allowed-amounts.json.gz"
+      }
+    }
+  ]
+}

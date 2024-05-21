@@ -1,0 +1,40 @@
+{
+  "reporting_entity_name": "United-HealthCare-Services-Inc",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "United-Healthcare-POS",
+          "plan_id": "411567315",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        },
+        {
+          "plan_name": "United-Healthcare-POS",
+          "plan_id": "411950883",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS_8_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_OHPH-ST_30_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath_31_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro_28_in-network-rates.json.gz"
+        }
+      ]
+    }
+  ]
+}

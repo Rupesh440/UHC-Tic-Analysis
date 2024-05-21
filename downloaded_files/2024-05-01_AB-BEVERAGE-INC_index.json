@@ -1,0 +1,37 @@
+{
+  "reporting_entity_name": "Surest",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "AB-BEVERAGE-INC",
+          "plan_id": "580866537",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_AB-BEVERAGE-INC_AB-BEVERAGE-INC_allowed-amounts.json.gz"
+      }
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "A-B--BEVERAGE-INC",
+          "plan_id": "580866537",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download?fd=2024-05-01&fn=2024-05-01_Surest_Third-Party-Administrator_DOCTORS-ON-DEMAND_UNITEDHEALTHCARE-CHOICE-PLUS_-DD_UBNT_in-network-rates.json.gz"
+        }
+      ]
+    }
+  ]
+}
